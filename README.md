@@ -10,7 +10,7 @@ Bachelor of International Business and Economics at Foreign Trade University Ho 
 ● Data analytics: SQL for data analyst, Data Analyst Professional Certificate (Meta), Machine Learning Specialization (Standford University and Deeplearning), Data Warehouse Engineer Professional Certificate (IBM).
 
 ## 📚 Projects
-Welcome to my Github portfolio, where I showcase all my [projects](https://github.com/Tuong-Vi04/Tuong-Vi04/new/main#-projects).
+Welcome to my Github portfolio, where I showcase all my [projects](https://github.com/Tuong-Vi04/Vi_Github_Portfolio/blob/main/README.md).
 ## 🛠️Tools
 ● Language: SQL, Python
 
