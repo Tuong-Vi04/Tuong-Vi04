@@ -16,6 +16,6 @@ Welcome to my Github portfolio, where I showcase all my [projects](https://githu
 
 ● Database: PostgreSQL
 
-● Visualization: Power BI
+● Visualization: Power BI, excel
 
 ### For further information about me, you can visit my [portfolio](https://tuongvi.cargo.site) where I maintain all my works.
