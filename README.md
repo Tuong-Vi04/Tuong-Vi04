@@ -1,6 +1,7 @@
 # 😊 INTRODUCING MYSELF
 ![Background frame](https://github.com/user-attachments/assets/18744a54-952a-4205-a93f-fbfd48db7fc4)
-### 👋 Hello, I'm Vi. I'm a supply chain analyst with an interest in supply chain optimization, inventory planning, sales forecasting.
+### 👋 Hello, I'm Vi. I'm a supply chain analyst with an interest in supply chain optimization, inventory management, sales forecasting. 
+For further information about me, visit my [Portfolio](https://tuongvi.cargo.site/)
 
 ## 🎓 Background
 Bachelor of International Business and Economics at Foreign Trade University Ho Chi Minh city campus (FTU2).
