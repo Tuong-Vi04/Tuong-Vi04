@@ -1,7 +1,7 @@
 # 😊 INTRODUCING MYSELF
 ![Background frame](https://github.com/user-attachments/assets/18744a54-952a-4205-a93f-fbfd48db7fc4)
 ### 👋 Hello, I'm Vi. I'm a supply chain analyst with an interest in supply chain optimization, inventory management, sales forecasting. 
-For further information about me, visit my [Portfolio](https://tuongvi.cargo.site/)
+For further information about me, visit my [Portfolio](https://tuongvi04092004.wixstudio.com/portfolio)
 
 ## 🎓 Background
 Bachelor of International Business and Economics at Foreign Trade University Ho Chi Minh city campus (FTU2).
@@ -19,4 +19,4 @@ Welcome to my Github portfolio, where I showcase all my [projects](https://githu
 
 ● Visualization: Power BI, excel
 
-### For further information about me, you can visit my [portfolio](https://tuongvi.cargo.site) where I maintain all my works.
+
