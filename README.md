@@ -1,5 +1,6 @@
 # 😊 INTRODUCING MYSELF
-![Background frame](https://github.com/user-attachments/assets/18744a54-952a-4205-a93f-fbfd48db7fc4)
+![Background frame](<img width="1584" height="396" alt="Nguyễn Thị Tường Vi" src="https://github.com/user-attachments/assets/74fde0d2-7b76-4485-b46b-e6490a52ef85" />
+)
 ### 👋 Hello, I'm Vi. I'm a supply chain analyst with an interest in supply chain optimization, inventory management, sales forecasting. 
 For further information about me, visit my [Portfolio](https://tuongvi04092004.wixstudio.com/portfolio)
 
