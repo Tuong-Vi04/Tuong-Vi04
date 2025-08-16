@@ -1,7 +1,6 @@
 # 😊 INTRODUCING MYSELF
 <img width="1664" height="414" alt="image" src="https://github.com/user-attachments/assets/087eb0c7-994a-411d-bc83-45a8fc8745bf" />
 
-)
 ### 👋 Hello, I'm Vi. I'm analyst with an interest in supply chain optimization. 
 For further information about me, visit my [Portfolio](https://tuongvi04092004.wixstudio.com/portfolio)
 
