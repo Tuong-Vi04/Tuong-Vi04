@@ -1,7 +1,8 @@
 # 😊 INTRODUCING MYSELF
-![Background frame](<img width="1584" height="396" alt="Nguyễn Thị Tường Vi" src="https://github.com/user-attachments/assets/74fde0d2-7b76-4485-b46b-e6490a52ef85" />
+![Background frame](<img width="1664" height="414" alt="image" src="https://github.com/user-attachments/assets/087eb0c7-994a-411d-bc83-45a8fc8745bf" />
+
 )
-### 👋 Hello, I'm Vi. I'm a supply chain analyst with an interest in supply chain optimization, inventory management, sales forecasting. 
+### 👋 Hello, I'm Vi. I'm analyst with an interest in supply chain optimization. 
 For further information about me, visit my [Portfolio](https://tuongvi04092004.wixstudio.com/portfolio)
 
 ## 🎓 Background
@@ -18,6 +19,6 @@ Welcome to my Github portfolio, where I showcase all my [projects](https://githu
 
 ● Database: PostgreSQL
 
-● Visualization: Power BI, excel
+● Visualization: Power BI, Tableau, excel
 
 
